@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkumarmm_0_han=self.webpackChunkkumarmm_0_han||[]).push([[602],{898:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/food-blog/first-blog-post"}]}')}}]);
