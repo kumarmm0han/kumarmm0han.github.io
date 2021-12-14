@@ -4,16 +4,62 @@
         <title>Mohankumar Muthuganesan Blog</title>
         <link>https://kumarmm0han.github.io/photo-blog</link>
         <description>Mohankumar Muthuganesan Blog</description>
-        <lastBuildDate>Wed, 29 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 11:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://kumarmm0han.github.io/photo-blog/long-blog-post</link>
-            <guid>long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-            <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <title><![CDATA[Bridges]]></title>
+            <link>https://kumarmm0han.github.io/photo-blog/bridges-blog-post</link>
+            <guid>bridges-blog-post</guid>
+            <pubDate>Tue, 14 Dec 2021 11:12:01 GMT</pubDate>
+            <description><![CDATA[Bridge]]></description>
+            <content:encoded><![CDATA[<p><img src="./bridges/DSC-0269.JPG" alt="Bridge"/></p><p><img src="./bridges/DSC-0510.JPG" alt="Bridge"/>
+<img src="./bridges/DSC-0541.JPG" alt="Bridge"/></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Pattern]]></title>
+            <link>https://kumarmm0han.github.io/photo-blog/pattern-blog-post</link>
+            <guid>pattern-blog-post</guid>
+            <pubDate>Tue, 14 Dec 2021 11:08:14 GMT</pubDate>
+            <description><![CDATA[Pattern]]></description>
+            <content:encoded><![CDATA[<p><img src="./pattern/DSC-0090.JPG" alt="Pattern"/></p><p><img src="./pattern/DSC-0105.JPG" alt="Pattern"/>
+<img src="./pattern/DSC-0526.JPG" alt="Pattern"/>
+<img src="./pattern/DSC-0564NEF.JPG" alt="Pattern"/></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Parks]]></title>
+            <link>https://kumarmm0han.github.io/photo-blog/parks-blog-post</link>
+            <guid>parks-blog-post</guid>
+            <pubDate>Tue, 14 Dec 2021 11:02:32 GMT</pubDate>
+            <description><![CDATA[Tulip]]></description>
+            <content:encoded><![CDATA[<p><img src="./parks/DSC-0573NEF.JPG" alt="Tulip"/></p><p><img src="./parks/DSC-0532NEF.JPG" alt="Tulip"/>
+<img src="./parks/DSC-0548NEF.JPG" alt="Tulip"/></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[City]]></title>
+            <link>https://kumarmm0han.github.io/photo-blog/city-blog-post</link>
+            <guid>city-blog-post</guid>
+            <pubDate>Tue, 14 Dec 2021 10:41:05 GMT</pubDate>
+            <description><![CDATA[City]]></description>
+            <content:encoded><![CDATA[<p><img src="./city/DSC-0358.JPG" alt="City"/></p><p><img src="./city/DSC-0090.JPG" alt="City"/>
+<img src="./city/DSC-0141.JPG" alt="City"/>
+<img src="./city/DSC-0313.JPG" alt="City"/>
+<img src="./city/DSC-0338.JPG" alt="City"/>
+<img src="./city/DSC-0371.JPG" alt="City"/></p><p><img src="./city/DSC-0377.JPG" alt="City"/></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Garden]]></title>
+            <link>https://kumarmm0han.github.io/photo-blog/garden-blog-post</link>
+            <guid>garden-blog-post</guid>
+            <pubDate>Sat, 13 Nov 2021 11:13:54 GMT</pubDate>
+            <description><![CDATA[Tulip]]></description>
+            <content:encoded><![CDATA[<p><img src="./garden/DSC-0491.JPG" alt="Tulip"/></p><p><img src="./garden/DSC-0034.JPG" alt="Tulip"/>
+<img src="./garden/DSC-0050.JPG" alt="Tulip"/>
+<img src="./garden/DSC-0095.JPG" alt="Tulip"/>
+<img src="./garden/DSC-0239.JPG" alt="Tulip"/>
+<img src="./garden/DSC-0242.JPG" alt="Tulip"/>
+<img src="./garden/DSC-0415.JPG" alt="Tulip"/>
+<img src="./garden/DSC-0246.JPG" alt="Tulip"/></p>]]></content:encoded>
         </item>
     </channel>
 </rss>

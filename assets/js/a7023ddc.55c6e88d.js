@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkumarmm_0_han=self.webpackChunkkumarmm_0_han||[]).push([[1713],{3457:function(a){a.exports=JSON.parse('{"/blog/tags/tech":{"allTagsPath":"/blog/tags","slug":"/blog/tags/tech","name":"tech","count":1,"permalink":"/blog/tags/tech"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkumarmm_0_han=self.webpackChunkkumarmm_0_han||[]).push([[9614],{1663:function(a){a.exports=JSON.parse('{"allTagsPath":"/photo-blog/tags","slug":"/photo-blog/tags/garden","name":"garden","count":2,"permalink":"/photo-blog/tags/garden"}')}}]);

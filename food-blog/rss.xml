@@ -4,16 +4,42 @@
         <title>Mohankumar Muthuganesan Blog</title>
         <link>https://kumarmm0han.github.io/food-blog</link>
         <description>Mohankumar Muthuganesan Blog</description>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 10:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://kumarmm0han.github.io/food-blog/first-blog-post</link>
-            <guid>first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <title><![CDATA[Welcome to Adisil]]></title>
+            <link>https://kumarmm0han.github.io/food-blog/adisil</link>
+            <guid>adisil</guid>
+            <pubDate>Tue, 14 Dec 2021 10:06:58 GMT</pubDate>
+            <description><![CDATA[Adisil is an ancient Tamil classical word that is unused at present. Adisil means "Cooked Rice" or "Cooked Food". ​ I am not a food blogger but a foodie interested in preparing food and serving people.]]></description>
+            <content:encoded><![CDATA[<p>Adisil is an ancient Tamil classical word that is unused at present. Adisil means &quot;Cooked Rice&quot; or &quot;Cooked Food&quot;. ​ I am not a food blogger but a foodie interested in preparing food and serving people.
+I was forced to start this blog to share the recipes for &#x27;Release Biryani&#x27; &amp; &#x27;Goat liver fry&#x27;. Many of my friends love those.
+Big thanks to my wife (Ph.D scholar in Tamil Literature), who gave this blog the unique title &#x27;Adisil&#x27; (picked from a poem from Sangam days).</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ஊன் துவை அடிசில் - Oon Thuvai Adisil]]></title>
+            <link>https://kumarmm0han.github.io/food-blog/oon-thuvai-adisil</link>
+            <guid>oon-thuvai-adisil</guid>
+            <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[In Sangam Period, Biryani was referred as 'Oon Thuvai Adisil']]></description>
+            <content:encoded><![CDATA[<p>In Sangam Period, Biryani was referred as &#x27;Oon Thuvai Adisil&#x27; </p><p>&#x27;Oon Thuvai Adisil&#x27; - &quot;Oon&quot; refers to meat, &quot;thuvai&quot; is a blend, and &quot;Adisil&quot; is a cooked meal. </p><p> The word &#x27;biryani&#x27; came into usage at a later date.   They mention that when the Timur came to India in 1398, the food of Biryani came to India. But Biryani food was eaten by Tamils ​​and others during the Sangam period. </p><p>Reference : Oon Thuvai Adisil</p><p>Oon Thuvai Adisil - English translation</p><p>Sangam Period : <a href="https://en.wikipedia.org/wiki/Sangam_period">https://en.wikipedia.org/wiki/Sangam_period</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Goat liver Fry]]></title>
+            <link>https://kumarmm0han.github.io/food-blog/goat-liver-fry</link>
+            <guid>goat-liver-fry</guid>
+            <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Goat liver fry is our favorite food from childhood days. In our family this is the way goat meats are introduced to our kids(First Bite). We get liver fry on Sunday's and learnt this from my Mom.]]></description>
+            <content:encoded><![CDATA[<p>Goat liver fry is our favorite food from childhood days. In our family this is the way goat meats are introduced to our kids(First Bite). We get liver fry on Sunday&#x27;s and learnt this from my Mom. </p><p>Ingredients:</p><ol><li><p>Goat liver cleaned, washed and cut into small pieces (cooks little fast if its small)</p></li><li><p>Handful of Fennel seeds, red chilli (whole without stem), curry leaves, red chilli powder if needed</p></li><li><p>Gingelly oil -  (Sesame seed oil) This oil brings extra aroma and this dish needs extra oil as the liver is going to be cooked in only oil (no water).  </p></li></ol><p>Method:</p><ol><li><p>Heat the oil in a pan and add Fennel seeds </p></li><li><p>Add the red chilli and curry leaves</p></li><li><p>Add the liver and fry</p></li><li><p>Add salt (and chilli powder if needed)</p></li><li><p>Fry till the liver is cooked (gets a dark outer layer)</p></li><li><p>Serve hot</p></li></ol>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Release Biryani]]></title>
+            <link>https://kumarmm0han.github.io/food-blog/release-biryani</link>
+            <guid>release-biryani</guid>
+            <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[We have a tradition of celebrating our Project releases with food & drinks. Goat Biryani and a Goat liver fry are our traditional menu.]]></description>
+            <content:encoded><![CDATA[<p>We have a tradition of celebrating our Project releases with food &amp; drinks. Goat Biryani and a Goat liver fry are our traditional menu. </p><p>Here is the Recipe,</p><p>Ingredients &amp; Steps:</p><p>Prep work for Rice:</p><p>We use Basmati Rice. Wash 4 cups of rice and soak the rice in water for minimum 2 hours.</p><p>Prep work for mutton (goat meat):</p><p>For 4 cups of rice we buy 3-4lbs of goat meat.  We have a habit of washing the meat using Turmeric ( may contain antibacterial &amp;  antimicrobial properties ). </p><p>Pressure cook the meat with enough water, salt &amp; with few cumin seeds. Preserve the soup as that will be used later to cook the rice.</p><p>For pastes:</p><ol><li>Ginger &amp; Garlic Paste:</li></ol><p>Peel and grind ginger &amp; garlic together and make a paste. </p><ol start="2"><li>Green Paste:</li></ol><p>Grind 2 full punch of Mint leaves, Coriander leaves  &amp; green chillies(based on the spice level)  and make a green paste. </p><p>For Aroma</p><p> Few bay leaves, piece cinnamon, cloves, cardamom,  star anise, cumin seeds(hand full of), peppercorns </p><p>Others:</p><p>1 full size red onions finely chopped, 2 tomatoes &amp; curry leaves</p><p>Instructions:</p><ol><li><p>Use a thick bottom pan or a pressure cooker for preparation. For 4 cups of rice 5 liter pressure cooker hold good.</p></li><li><p>Heat sunflower oil and ghee in a pan until hot and then add the aromatics </p></li><li><p>Add the finely chopped onions and curry leaves  and fry it till golden brown and leave it till caramelized. This is very important step.</p></li><li><p>Add the ginger &amp; garlic paste and fry it till the raw smell goes away</p></li><li><p>Add the mint paste and fry it till the raw smell goes away. At this stage we should be able to smell the aroma created by the mint &amp; caramelized onions</p></li><li><p>Add the tomatoes and cook for few mins</p></li><li><p>Add the cooked meat</p></li><li><p>Add the soup and water for cooking rice. We go by the measure of 1cup rice = 1.5 cup of water. Add all the mutton soup first and add water based on the needs</p></li><li><p>Add salt, as this is the last stage we can add salt so make sure to add enough salt for both curry and rice. </p></li><li><p>Leave this mix to boil and add the soaked rice (drain the water). Stir once and cover it with lid</p></li><li><p>In medium flame Pressure cook for 1-2 whistle or  cook till the rice has absorbed most of the liquid.</p></li><li><p>If needed leave it in dum (low flame with tight lid or with pressure cooker lid without whistle ) for few mins</p></li><li><p>Serve the hot Biryani with Onion raita</p></li></ol>]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkumarmm_0_han=self.webpackChunkkumarmm_0_han||[]).push([[3401],{2039:function(o){o.exports=JSON.parse('{"/food-blog/tags/food":{"allTagsPath":"/food-blog/tags","slug":"/food-blog/tags/food","name":"food","count":4,"permalink":"/food-blog/tags/food"}}')}}]);

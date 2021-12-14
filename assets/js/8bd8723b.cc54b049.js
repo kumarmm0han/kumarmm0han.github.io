@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkumarmm_0_han=self.webpackChunkkumarmm_0_han||[]).push([[8958],{5559:function(a){a.exports=JSON.parse('{"allTagsPath":"/photo-blog/tags","slug":"/photo-blog/tags/bridge","name":"bridge","count":1,"permalink":"/photo-blog/tags/bridge"}')}}]);
